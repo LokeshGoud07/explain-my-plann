@@ -23,7 +23,7 @@ AI Model: Groq (Llama 3)
 Clone the repository
 
 ```
-git clone https://github.com/YOUR_USERNAME/explain-my-plan.git
+git clone https://github.com/LokeshGoud07/explain-my-plan.git
 ```
 
 Install dependencies
